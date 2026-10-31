@@ -10,17 +10,17 @@
   "license": "MIT",
   "dependencies": {
     "chance": "^1.1.7",
-    "ejs": "^3.1.6",
+    "ejs": "^7.0.2",
     "express": "^4.17.1",
     "grapheme-splitter": "^1.0.4",
     "leven": "^3.1.0",
     "nanoid": "^3.1.20",
-    "socket.io": "^3.1.0"
+    "socket.io": "^4.8.4"
   },
   "devDependencies": {
-    "eslint": "^7.18.0",
+    "eslint": "^10.14.0",
     "eslint-config-airbnb-base": "^14.2.1",
-    "eslint-plugin-import": "^2.22.1"
+    "eslint-plugin-import": "^2.32.0"
   },
   "repository": {
     "type": "git",
